@@ -1,0 +1,71 @@
+{
+  "parent": "arsenal:item/template_big_weapon_in_hand",
+  "textures": {
+    "layer0": "assets/minecraft/citresewn/cit/flame_of_ifrit/flame_of_ifrit.png"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        45
+      ],
+      "translation": [
+        0,
+        15,
+        2
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        90,
+        -45
+      ],
+      "translation": [
+        0,
+        15,
+        2
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        115
+      ],
+      "translation": [
+        1.13,
+        3.2,
+        5.13
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        20,
+        95,
+        -60
+      ],
+      "translation": [
+        10,
+        8,
+        -8
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": {
+            "translate": "tlauncher custom items",
+            "fallback": "tlauncher custom items"
+        },
+        "supported_formats": [15, 34]
+    }
+}
